@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCM platform\bin\Debug\SCM platform.exe.config
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCM platform\bin\Debug\SCM platform.exe
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCM platform\bin\Debug\SCM platform.pdb
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCM platform\obj\Debug\SCM platform.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCM platform\obj\Debug\SCM platform.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCM platform\obj\Debug\SCM platform.exe
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCM platform\obj\Debug\SCM platform.pdb

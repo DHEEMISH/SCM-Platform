@@ -1,0 +1,17 @@
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\SCMTest.dll
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\SCMTest.pdb
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\obj\Debug\SCMTest.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\obj\Debug\SCMTest.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\obj\Debug\SCMTest.csproj.CopyComplete
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\obj\Debug\SCMTest.dll
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\obj\Debug\SCMTest.pdb
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\SCM platform.exe
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\SCM platform.pdb
+C:\Users\Dell\Documents\SCM platform\SCM platform\SCMTest\bin\Debug\SCM platform.exe.config
