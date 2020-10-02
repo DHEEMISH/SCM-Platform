@@ -16,7 +16,7 @@ namespace SCM_platform
 
             int quantityA = Convert.ToInt32(Console.ReadLine());          
           
-             Console.Write("Please Enter the quantity for Product B : ");
+            Console.Write("Please Enter the quantity for Product B : ");
             int quantityB = Convert.ToInt32(Console.ReadLine());
        
            

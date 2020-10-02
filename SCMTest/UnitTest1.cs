@@ -9,9 +9,9 @@ namespace SCMTest
         [TestMethod]
         public void ProductTest()
         {
-           
-         //   ProductClass prodTest = new ProductClass();
-            //double res = prodTest.sumproduct(10, 10);
+          //  ProductClass pc = new ProductClass();
+         // ProductClass prodTest = new ProductClass();
+          //  int res = prodTest.sumproduct();
             //Assert.AreEqual(res, 20);
         }
     }
